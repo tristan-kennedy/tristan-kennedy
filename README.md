@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tdkenn or Tristan Kennedy
+- 👋 Hi, I’m @Tristan-Kennedy
 - 👀 I’m interested in everything programming, with a passion for problem solving.
 - 🌱 I’m currently studying Computer Science at the University of Alabama in Huntsville, and I'm learning CSS, JavaScript, and HTML in my free time.
 - 📫 How to reach me: tdouglaskennedy@gmail.com
