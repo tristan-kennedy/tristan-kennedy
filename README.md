@@ -1,10 +1,12 @@
 <div align="center">
-  <h1>
+  <h3>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
     Hey, I'm Tristan <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FABD2F&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Board+Game+Enthusiast" alt="Typing animation" />
-  </h1>
+  </h3>
 </div>
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,nextjs,postgres,mongodb,redis,docker,git,aws&theme=dark" />
